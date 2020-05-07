@@ -1,2 +1,0 @@
-# samlple
-test
